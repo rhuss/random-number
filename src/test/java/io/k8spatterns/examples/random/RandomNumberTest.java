@@ -1,4 +1,4 @@
-package io.k8spatterns.examples;
+package io.k8spatterns.examples.random;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;

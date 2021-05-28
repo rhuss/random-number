@@ -1,4 +1,4 @@
-package io.k8spatterns.examples;
+package io.k8spatterns.examples.random;
 
 import java.util.Random;
 import java.util.UUID;

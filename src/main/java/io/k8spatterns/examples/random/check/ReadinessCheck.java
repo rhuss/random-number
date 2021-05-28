@@ -1,4 +1,4 @@
-package io.k8spatterns.examples.check;
+package io.k8spatterns.examples.random.check;
 
 import org.eclipse.microprofile.health.HealthCheck;
 import org.eclipse.microprofile.health.HealthCheckResponse;

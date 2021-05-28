@@ -1,4 +1,4 @@
-package io.k8spatterns.examples.check;
+package io.k8spatterns.examples.random.check;
 
 import javax.enterprise.context.ApplicationScoped;
 
